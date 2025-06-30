@@ -1,5 +1,7 @@
 # Blinkit Supermart Store Analysis: Optimizing Sales, Satisfaction, and Inventory
 
+![Blinkit Supermart Dashboard](Blinkit_Dashboard.png)
+
 ## 📊 Project Overview
 Comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify optimization opportunities across:
 - Revenue improvement
@@ -17,19 +19,19 @@ Comprehensive analysis of Blinkit's sales performance, customer satisfaction, an
 ## 🔍 Key Insights & Visualizations
 
 ### 1. Sales by Fat Content
-![Fat Content Donut Chart](https://via.placeholder.com/400x300?text=Fat+Content+Donut+Chart)
+![Fat Content Donut Chart]
 - **Regular Fat**: $776K (68% of sales)
 - **Low Fat**: $425K (32% of sales)
 
 ### 2. Sales by Item Type
-![Item Type Bar Chart](https://via.placeholder.com/400x300?text=Item+Type+Bar+Chart)
+![Item Type Bar Chart]
 - Top Performers: Fruits/Veg, Snack Foods
 - Secondary: Household, Frozen Foods
 
 ### 3. Outlet Performance
-Tier 3 → $472K
-Tier 2 → $393K 
-Tier 1 → $336K
+- Tier 3 → $472K
+- Tier 2 → $393K 
+- Tier 1 → $336K
 
 
 ### 4. Outlet Type Comparison
@@ -58,4 +60,3 @@ Tier 1 → $336K
 - **SQL** (Data querying)
 - **Excel** (Initial data cleaning)
 
-> 📌 **Note**: Replace placeholder image links with actual visualization screenshots
