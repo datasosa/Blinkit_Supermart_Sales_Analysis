@@ -19,12 +19,10 @@ Comprehensive analysis of Blinkit's sales performance, customer satisfaction, an
 ## 🔍 Key Insights & Visualizations
 
 ### 1. Sales by Fat Content
-![Fat Content Donut Chart]
 - **Regular Fat**: $776K (68% of sales)
 - **Low Fat**: $425K (32% of sales)
 
 ### 2. Sales by Item Type
-![Item Type Bar Chart]
 - Top Performers: Fruits/Veg, Snack Foods
 - Secondary: Household, Frozen Foods
 
